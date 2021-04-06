@@ -1,0 +1,18 @@
+;Codewright Project Space File (do not remove or modify this line)
+[State]
+StateWindowFrame=1958,0,960,770,0x430d7fca
+_StateHistory=PROJECTS,'.\CW_SWB_V2.0.0.pjt'
+_RestoreProject='.\CW_SWB_V2.0.0.pjt'
+ProjSpaceFlags=0x00000000, 1
+ProjViewSetShow=ABccccccb
+
+[Project]
+ConfigSetUserWorkspace=''
+ConfigSetUserWorkspaceParser=''
+ConfigSetUserWorkspaceTimeStamp=0
+ConfigSetUserWorkspaceAutoSync=0
+
+[Project.".\CW_SWB_V2.0.0.pjt"]
+
+[Project."G:\BCM2_5\_svn\02_Development\02_Code\BCM_PST_CW_UBC\CW_SWB_V2.0.0.pjt"]
+
